@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pkl
+model_artifacts/
+output*.csv
+.venv/
+venv/
